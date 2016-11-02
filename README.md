@@ -19,4 +19,4 @@ Download ("Export") an XML expense report from OTP Direkt (the online interface)
 ./convert.sh ~/Downloads/export.xml
 ```
 
-Then import `out.csv` into YNAB. Make sure to select the right account before importing.
+Then import the created `./export.ofx` into YNAB. Make sure to select the right account before importing.
